@@ -4,4 +4,4 @@ some text
 
 ## Local Development
 
-Open indec.html with your browser.
+Open index.html with your browser.
