@@ -6,4 +6,4 @@ some text
 
 Open index.html with your browser.
 
-this is test for add command
+this is test for add
